@@ -1,6 +1,6 @@
-# Doom II. Hell on Earth 2.0
+# Doom II. Hell on Extending
 
-Large-scale rethinking of the levels of the original series.
+Large-scale expanding of the levels of the original series.
 Enjoy it.
 
 The original doom2.wad is required. 
