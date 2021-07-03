@@ -14,5 +14,16 @@ Anyway, this is a personal representation of what doom looks like in my eyes, an
 
 Map editor Slade v3.2.0
 
+Tested in GZDOOM g4.6.0
+Tested with Brutaldoom v21
+
 # Changelog
-Redrawn MAP01 and MAP02.
+ver 0.3.0307
+Redrawn MAP03
+
+ver 0.2.3006
+Redrawn MAP02
+Bugfix in MAP01
+
+ver 0.1.2006
+Redrawn MAP01
