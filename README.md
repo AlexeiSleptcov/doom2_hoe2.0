@@ -18,7 +18,7 @@ Tested in GZDOOM g4.6.0
 Tested with Brutaldoom v21
 
 # Changelog
-* ver 0.4.2207
+* ver 0.4.2207  
 Added map04
 
 * ver 0.3.0307  
