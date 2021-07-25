@@ -18,7 +18,7 @@ Tested in GZDOOM g4.6.0
 Tested with Brutaldoom v21
 
 # Changelog
-* ver 0.5.2507
+* ver 0.5.2507  
 Added MAP05
 
 * ver 0.4.2207  
