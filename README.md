@@ -1,7 +1,7 @@
 # Doom II. Hell on Extending
 
-Large-scale expanding of the levels of the original series.
-Enjoy it.
+Large-scale expanding of the levels of the original series.  
+I hope you enjoy it.
 
 The original doom2.wad is required. 
 
