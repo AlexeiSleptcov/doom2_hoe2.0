@@ -19,6 +19,9 @@ Tested with Brutaldoom v21
 
 # Changelog
 * ver 0.6.2907  
+Added MAP07
+
+* ver 0.6.2907  
 Added MAP06
 
 * ver 0.5.2507  
